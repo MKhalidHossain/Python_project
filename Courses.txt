@@ -1,0 +1,11 @@
+Id,Course Name,Price,Classes,Duration
+01, WEB DESIGN,500, 36 Classes, 3 Month
+02, GRAPHICS DESIGN,390, 36 Classes, 3 Month
+03, WORDPRESS CUSTOMIZE,550, 32 Classes, 3 Month
+04, s,650, 38 Classes, 3 Month
+05, DIGITAL MARKETING,400,36 Classes, 3 Month
+06, THEME CUSTOMIZE,200,32 Classes, 3 Month
+07, SEO,450,35, 3 month
+10, java,324,44 classes, 3 month
+000, SIO,1000,44 classes, 6 month
+011, bash,200,31 classes, 3 month month
